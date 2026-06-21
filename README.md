@@ -26,5 +26,6 @@ Import this repository into Vercel as a static site.
 
 - Main homepage copy lives in `index.html`.
 - Web resume content lives in `resume.html`.
+- PDF resume lives at `assets/Antonio_Vazquez_Resume.pdf`.
 - Case studies live in `projects/`.
 - Replace visual placeholders with CAD renders, prototype photos, test plots, diagrams, or annotated screenshots when ready.
