@@ -1,0 +1,6 @@
+.agents/
+.codex/
+work/
+outputs/
+node_modules/
+.vercel/
