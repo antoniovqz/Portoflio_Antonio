@@ -1,12 +1,10 @@
 {
-  "name": "antonio-rafael-portfolio",
+  "name": "antonio-vazquez-engineering-portfolio",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "vercel dev",
-    "start": "vercel dev"
-  },
-  "devDependencies": {
-    "vercel": "latest"
+    "build": "node scripts/validate-static-site.js",
+    "dev": "npx serve .",
+    "start": "npx serve ."
   }
 }
